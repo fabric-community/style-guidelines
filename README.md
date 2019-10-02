@@ -48,12 +48,12 @@ public void myMethod(MyObject obj) {
    if(obj.getProperty()) [...]
 ```
 
-# Identifiers
+### Identifiers
 When registering content that has a two+ word name, connect the words with an underscore.
 `Deadly Pickaxe` -> `deadly_pickaxe`
 
-# Method Naming
+### Method Naming
 Method names should be descriptive and concise. This also applies to mixin methods.
 
-# Tabs and Spaces
+### Tabs and Spaces
 Use either 4 spaces or 1 tab when indenting a line.

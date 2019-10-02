@@ -52,6 +52,9 @@ public void myMethod(MyObject obj) {
 When registering content that has a two+ word name, connect the words with an underscore.
 `Deadly Pickaxe` -> `deadly_pickaxe`
 
+### Parameter Names
+Method parameters in Fabric often have `_1` added on the end. Try to clean these up when possible.
+
 ### Method Naming
 Method names should be descriptive and concise. This also applies to mixin methods.
 

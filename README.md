@@ -60,3 +60,8 @@ Method names should be descriptive and concise. This also applies to mixin metho
 
 ### Tabs and Spaces
 Use either 4 spaces or 1 tab when indenting a line.
+
+### Trailing Whitespace
+Please do not add whitespace between the following:
+- Two braces with no content between them.
+- Before the bottom or top braces of a class.
